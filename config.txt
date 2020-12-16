@@ -1,0 +1,4 @@
+
+[database]
+con = mysql+pymysql://krishna:test@localhost/test
+database = test
